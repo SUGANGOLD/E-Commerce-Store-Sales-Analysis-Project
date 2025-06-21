@@ -91,4 +91,3 @@ For questions or feedback, feel free to open an issue or reach out.
 
 ---
 
-✅ This notebook is beginner-friendly and a great addition to a data analyst portfolio!
